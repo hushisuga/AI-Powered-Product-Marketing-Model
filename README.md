@@ -78,10 +78,10 @@ This section showcases all credentials, recognition, and awards received during 
 | Certificate / Award | Description | File / View |
 |--------------------|-------------|-------------|
 | **Artificial Intelligence Fundamentals Badge** | Credentialed completion of the AI fundamentals course. | [View Certificate](certificates/ArtificialIntelligenceFundamentalsBadge20250601-20250204AM.pdf) |
-| **Winter Certification Program Completion** | Completion certificate for participating in the Winter Certification Program. | [View Certificate](certificates/Completion_Winter Certification Program.pdf) |
-| **Introduction to Artificial Intelligence – Completion** | Verified completion of the AI introductory course. | [View Certificate](certificates/Introduction to Artificial Intelligence_Completion.pdf) |
+| **Winter Certification Program Completion** | Completion certificate for participating in the Winter Certification Program. | [View Certificate](certificates/Completion_WinterCertificationProgram.pdf) |
+| **Introduction to Artificial Intelligence – Completion** | Verified completion of the AI introductory course. | [View Certificate](certificates/IntroductiontoArtificialIntelligence_Completion.pdf) |
 | **Voucher Award** | ₹5000 Amazon voucher awarded for winning the program. | ![Voucher Screenshot](certificates/Voucher_.png) |
-| **Top Winner – CSRBOX Program** | Recognized as Top 5 finalist and declared winner of the IBM SkillsBuild CSRBOX program. | [View Certificate](certificates/WCP Top Winner (1).pdf) |
+| **Top Winner – CSRBOX Program** | Recognized as Top 5 finalist and declared winner of the IBM SkillsBuild CSRBOX program. | [View Certificate](certificates/WCPTopWinner(1).pdf) |
 
 
 
