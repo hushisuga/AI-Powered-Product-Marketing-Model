@@ -32,7 +32,7 @@ Develop an AI-powered system to conceptualize, design, and market a new product,
 | `Product_Concept_and_Name.pdf` | Documentation of product concept, rationale for name, and overall strategy. | ChatGPT, Canva.AI |
 | `Product_Design` | Image of the product (brown collared shirt), generated and refined as part of AI-assisted design. | Gemini, Sora |
 
-> ✅ All 8 project items are explicitly mentioned here.
+
 
 
 
@@ -71,11 +71,20 @@ Develop an AI-powered system to conceptualize, design, and market a new product,
 
 
 
-## Awards & Recognition
+## Certificates & Awards
 
-1. **IBM SkillsBuild CSRBOX Winter Certification Program** – Top 5 finalist and winner (₹5000 voucher).  
-2. **IBM Artificial Intelligence Fundamentals Certificate** – Credentialed completion of AI fundamentals course.  
-3. (Optional) Amazon voucher acknowledgment screenshot (voucher number masked for privacy).  
+This section showcases all credentials, recognition, and awards received during the IBM SkillsBuild CSRBOX Winter Certification Program and associated AI courses.  
+
+| Certificate / Award | Description | File / View |
+|--------------------|-------------|-------------|
+| **Artificial Intelligence Fundamentals Badge** | Credentialed completion of the AI fundamentals course. | [View Certificate](certificates/ArtificialIntelligenceFundamentalsBadge20250601-20250204AM.pdf) |
+| **Winter Certification Program Completion** | Completion certificate for participating in the Winter Certification Program. | [View Certificate](certificates/Completion_Winter Certification Program.pdf) |
+| **Introduction to Artificial Intelligence – Completion** | Verified completion of the AI introductory course. | [View Certificate](certificates/Introduction to Artificial Intelligence_Completion.pdf) |
+| **Voucher Award** | ₹5000 Amazon voucher awarded for winning the program. | ![Voucher Screenshot](certificates/Voucher_.png) |
+| **Top Winner – CSRBOX Program** | Recognized as Top 5 finalist and declared winner of the IBM SkillsBuild CSRBOX program. | [View Certificate](certificates/WCP Top Winner (1).pdf) |
+
+
+
 
 
 
