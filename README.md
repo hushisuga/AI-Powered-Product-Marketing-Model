@@ -61,7 +61,7 @@ Develop an AI-powered system to conceptualize, design, and market a new product,
 - **Marketing & Campaign Planning:** Applied AI to develop strategic campaigns and investor pitch materials.  
 
 
-## Outcomes & Skills Gained
+## Outcomes
 
 - Practical experience in **AI-assisted marketing, product design, and campaign planning**.  
 - Hands-on knowledge of **sentiment analysis, prompt engineering, and AI tool integration**.  
