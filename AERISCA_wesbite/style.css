@@ -1,0 +1,147 @@
+.hero_section {
+  background-image: url(./Images/img1.jpg);
+  width: 100%;
+  height: 100vh;
+  background-size: 100%;
+  background-position: center;
+  animation: zoomInBackground 2s ease-out forwards;
+
+  background-attachment: fixed;
+}
+
+@keyframes zoomInBackground {
+  from {
+    background-size: 100%;
+  }
+  to {
+    background-size: 110%; /* Slight zoom effect */
+  }
+}
+
+.nav-link {
+  color: white !important;
+}
+
+.logo_image img {
+  height: 2rem;
+  width: 6rem;
+}
+
+.hero_text {
+  color: white;
+  padding-top: 7rem !important;
+  width: 70% !important;
+  opacity: 0.5; /* Start invisible */
+  transform: translateY(2px); /* Slightly lower */
+  animation: fadeUp 2s ease-out forwards;
+}
+.hero_text h1 {
+  font-size: 3.5rem;
+}
+
+.hero-title {
+  font-size: 3rem; /* Adjust as needed */
+  font-weight: bold;
+  text-align: center;
+  opacity: 0; /* Start invisible */
+  transform: translateY(20px); /* Slightly lower */
+  letter-spacing: -2px; /* Tight letters initially */
+  animation: fadeUp 2s ease-out forwards;
+}
+
+@keyframes fadeUp {
+  0% {
+    opacity: 0;
+    transform: translateY(20px);
+    letter-spacing: 2px;
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+    letter-spacing: 2px; /* Slight expansion */
+  }
+}
+
+.image_section1 {
+  background-image: url(./Images/image1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  width: 100%;
+  height: 100vh;
+}
+.image_section2 {
+  background-image: url(./Images/image2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  width: 100%;
+  height: 100vh;
+}
+
+.image_section1 h3,
+.image_section2 h3 {
+  padding: 10%;
+  width: 70%;
+  text-align: left;
+  color: white;
+  font-size: 3.5rem;
+  font-weight: bold;
+}
+
+.product-card img {
+  height: 200px;
+  object-fit: cover;
+}
+
+/* card 4 part , seconf page*/
+
+.scroll-container {
+  width: 100%;
+  overflow: hidden;
+  background: #fff;
+  display: flex;
+  justify-content: center;
+  padding: 20px 0;
+}
+
+.scroll-content {
+  display: flex;
+  gap: 20px;
+  width: max-content; /* Ensures content width expands */
+  animation: infiniteScroll 20s linear infinite;
+}
+
+.item {
+  width: 250px;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  padding: 15px;
+  text-align: center;
+  transition: transform 0.3s ease-in-out;
+}
+
+.item:hover {
+  transform: scale(1.05);
+}
+
+.item img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.item p {
+  margin-top: 10px;
+  font-size: 14px;
+}
+
+/* Infinite scrolling animation */
+@keyframes infiniteScroll {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
